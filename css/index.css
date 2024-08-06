@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.background{
+    background-image: url(../images/medical-banner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80vh;
+}
+
+.game{
+    padding-top: 200px;
+}
+
+.lagos{
+    margin-top: 150px;
+}
+
+.button{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 80px
+}
+
+.vline{
+    border-left: 2px solid black;
+    height: 80px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.vline2{
+    border-left: 2px solid #52cbf0;
+    height: 80px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.background2{
+    background-image: url(../images/lagosux.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 70vh;
+}
+
+.background3{
+    background-image: url(./../images/get\ in\ touch_img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80vh;
+}
+
+
